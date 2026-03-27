@@ -41,7 +41,4 @@ Projects
   - Qt app with a list of 1000+ anime to rate and receive personalized recommendations
   - https://github.com/CedricMrtz/recommendation-algorithm
   
-
-
-  
 </pre>
