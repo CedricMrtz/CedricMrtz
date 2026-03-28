@@ -8,7 +8,7 @@ I really like working with clean software
 Actually working on full-stack development but trying different things!
 
 -------------
-Talk to me
+Contact me
 > email: cedric.santi@gmail.com
 > portfolio: https://cedricmartinezcv.vercel.app/
 > linkedin: https://www.linkedin.com/in/cedric-martinez-zavala-a40436294/
