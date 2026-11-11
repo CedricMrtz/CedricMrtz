@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="571" viewBox="0 0 880 571" font-family="Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="14px">
+<rect x="0.5" y="0.5" width="879" height="570" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<text x="36" y="136" fill="#0969da" xml:space="preserve">                      .::::</text>
+<text x="36" y="153" fill="#0969da" xml:space="preserve">                     :---:.           .::.</text>
+<text x="36" y="170" fill="#0969da" xml:space="preserve">                   .-=+=-:           .-=:</text>
+<text x="36" y="187" fill="#0969da" xml:space="preserve">                 .:-+*+=:.          :=*=:</text>
+<text x="36" y="204" fill="#0969da" xml:space="preserve">           ..:::--=*#*=-:.         :=*+-.</text>
+<text x="36" y="221" fill="#0969da" xml:space="preserve">       .:-=++.**###%**++=--:      :=##+-.</text>
+<text x="36" y="238" fill="#0969da" xml:space="preserve">     :-=+*#%%.@@@@@@@@@%##*+=:.  -+#%*=:</text>
+<text x="36" y="255" fill="#0969da" xml:space="preserve">   .-=+*%%@@@.@@@@@@@@@@@@%#*+-:-+#@%*=:</text>
+<text x="36" y="272" fill="#0969da" xml:space="preserve">  .-=*#  @@@.@@@@@@@@@@@@@@@#*+=*%@@#+-.</text>
+<text x="36" y="289" fill="#0969da" xml:space="preserve">  :=+*%   @@.@@@@@@@@@@@@@@@%#**%@@%#+-.</text>
+<text x="36" y="306" fill="#0969da" xml:space="preserve">  :=+*%@@@@@.@@@@@@@@@@@@@@@%#**%@@%#+-.</text>
+<text x="36" y="323" fill="#0969da" xml:space="preserve">  .-=*#%@@@@.@@@@@@@@@@@@@@@#*+=*%@@#+-.</text>
+<text x="36" y="340" fill="#0969da" xml:space="preserve">   .-=+*%%@@@.@@@@@@@@@@@@%#*+-:-+#@%*=:</text>
+<text x="36" y="357" fill="#0969da" xml:space="preserve">     :-=+*#%%.@@@@@@@@@%##*+=:.  -+#%*=:</text>
+<text x="36" y="374" fill="#0969da" xml:space="preserve">       .:-=++.**###***++=--:      :=##+-.</text>
+<text x="36" y="391" fill="#0969da" xml:space="preserve">           ..:::----::::.          :=*+-.</text>
+<text x="36" y="408" fill="#0969da" xml:space="preserve">                       ..           :=*=:</text>
+<text x="36" y="425" fill="#0969da" xml:space="preserve">                                     .-=:</text>
+<text x="36" y="442" fill="#0969da" xml:space="preserve">                                      .::.</text>
+<text x="400" y="48" xml:space="preserve"><tspan fill="#bc4c00">cedric</tspan><tspan fill="#24292f">@</tspan><tspan fill="#0969da">github</tspan><tspan fill="#afb8c1"> ─────────────────────────────────────────</tspan></text>
+<text x="400" y="69" xml:space="preserve"><tspan fill="#bc4c00">OS:</tspan><tspan fill="#afb8c1">.............. </tspan><tspan fill="#24292f">Linux</tspan></text>
+<text x="400" y="90" xml:space="preserve"><tspan fill="#bc4c00">Shell:</tspan><tspan fill="#afb8c1">........... </tspan><tspan fill="#24292f">zsh</tspan></text>
+<text x="400" y="111" xml:space="preserve"><tspan fill="#bc4c00">Host:</tspan><tspan fill="#afb8c1">............ </tspan><tspan fill="#24292f">Full-stack developer</tspan></text>
+<text x="400" y="132" xml:space="preserve"><tspan fill="#bc4c00">Kernel:</tspan><tspan fill="#afb8c1">.......... </tspan><tspan fill="#24292f">Clean software enthusiast</tspan></text>
+<text x="400" y="153" xml:space="preserve"><tspan fill="#bc4c00">Uptime:</tspan><tspan fill="#afb8c1">.......... </tspan><tspan fill="#24292f">Always trying new things</tspan></text>
+<text x="400" y="174" xml:space="preserve"><tspan fill="#bc4c00">Languages.Code:</tspan><tspan fill="#afb8c1">.. </tspan><tspan fill="#24292f">TypeScript, Rust, C++, Python, Java</tspan></text>
+<text x="400" y="195" xml:space="preserve"><tspan fill="#bc4c00">Languages.Real:</tspan><tspan fill="#afb8c1">.. </tspan><tspan fill="#24292f">Spanish, English</tspan></text>
+<text x="400" y="216" xml:space="preserve"><tspan fill="#bc4c00">Frameworks:</tspan><tspan fill="#afb8c1">...... </tspan><tspan fill="#24292f">React, Next.js, Node.js, Tailwind</tspan></text>
+<text x="400" y="237" xml:space="preserve"><tspan fill="#bc4c00">Systems:</tspan><tspan fill="#afb8c1">......... </tspan><tspan fill="#24292f">ROS2, Docker, Linux, PostgreSQL, Git</tspan></text>
+<text x="400" y="279" xml:space="preserve"><tspan fill="#afb8c1">─ </tspan><tspan fill="#0969da">Projects</tspan><tspan fill="#afb8c1"> ────────────────────────────────────────────</tspan></text>
+<text x="400" y="300" xml:space="preserve"><tspan fill="#bc4c00">SeaFox ROV:</tspan><tspan fill="#afb8c1">...... </tspan><tspan fill="#24292f">MATEROV 2025 · ROS2 control stack</tspan></text>
+<text x="400" y="321" xml:space="preserve"><tspan fill="#bc4c00">NOAA Challenge:</tspan><tspan fill="#afb8c1">.. </tspan><tspan fill="#24292f">Fish detection · 3rd place</tspan></text>
+<text x="400" y="342" xml:space="preserve"><tspan fill="#bc4c00">SharkByte:</tspan><tspan fill="#afb8c1">....... </tspan><tspan fill="#24292f">NASA data + ML shark tracker</tspan></text>
+<text x="400" y="363" xml:space="preserve"><tspan fill="#bc4c00">App Blocker:</tspan><tspan fill="#afb8c1">..... </tspan><tspan fill="#24292f">Linux TUI · Rust + Ratatui</tspan></text>
+<text x="400" y="384" xml:space="preserve"><tspan fill="#bc4c00">Recommender:</tspan><tspan fill="#afb8c1">..... </tspan><tspan fill="#24292f">Qt app · 1000+ anime</tspan></text>
+<text x="400" y="426" xml:space="preserve"><tspan fill="#afb8c1">─ </tspan><tspan fill="#0969da">Contact</tspan><tspan fill="#afb8c1"> ─────────────────────────────────────────────</tspan></text>
+<text x="400" y="447" xml:space="preserve"><tspan fill="#bc4c00">Email:</tspan><tspan fill="#afb8c1">........... </tspan><tspan fill="#24292f">cedric.santi@gmail.com</tspan></text>
+<text x="400" y="468" xml:space="preserve"><tspan fill="#bc4c00">Portfolio:</tspan><tspan fill="#afb8c1">....... </tspan><tspan fill="#24292f">cedricmartinezcv.vercel.app</tspan></text>
+<text x="400" y="489" xml:space="preserve"><tspan fill="#bc4c00">LinkedIn:</tspan><tspan fill="#afb8c1">........ </tspan><tspan fill="#24292f">in/cedric-martinez-zavala-a40436294</tspan></text>
+<rect x="400" y="518" width="30" height="16" fill="#24292f"/>
+<rect x="430" y="518" width="30" height="16" fill="#cf222e"/>
+<rect x="460" y="518" width="30" height="16" fill="#1a7f37"/>
+<rect x="490" y="518" width="30" height="16" fill="#9a6700"/>
+<rect x="520" y="518" width="30" height="16" fill="#0969da"/>
+<rect x="550" y="518" width="30" height="16" fill="#8250df"/>
+<rect x="580" y="518" width="30" height="16" fill="#1b7c83"/>
+<rect x="610" y="518" width="30" height="16" fill="#6e7781"/>
+</svg>
